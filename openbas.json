@@ -389,9 +389,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitSceneUrl",
+                         "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/jonnytest1.github.io\/workadventuremap\/map.json#start-bas"
+                         "value":"\/_\/global\/jonnytest1.github.io\/workadventuremap\/map.json#start-bas "
                         }],
                  "type":"tilelayer",
                  "visible":true,

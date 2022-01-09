@@ -2074,7 +2074,7 @@
   </layer>
   <layer id="12" name="exit-jonny" width="82" height="47">
    <properties>
-    <property name="exitUrl" value="/_/global/jonnytest1.github.io/workadventuremap/map.json#start-bas"/>
+    <property name="exitUrl" value="/_/global/jonnytest1.github.io/workadventuremap/map.json#start-bas "/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
