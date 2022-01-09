@@ -1912,7 +1912,7 @@
  <group id="25" name="exit">
   <layer id="17" name="exit-world-map" width="82" height="47">
    <properties>
-    <property name="exitSceneUrl" value="/_/global/pi4.e6azumuvyiabvs9s.myfritz.net/nodetype/rest/mapserver/site.json"/>
+    <property name="exitSceneUrl" value="https://pi4.e6azumuvyiabvs9s.myfritz.net/mapserver/rest/mapserver/site.json"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -337,7 +337,7 @@
                         {
                          "name":"exitSceneUrl",
                          "type":"string",
-                         "value":"\/_\/global\/pi4.e6azumuvyiabvs9s.myfritz.net\/nodetype\/rest\/mapserver\/site.json"
+                         "value":"https:\/\/pi4.e6azumuvyiabvs9s.myfritz.net\/mapserver\/rest\/mapserver\/site.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -391,7 +391,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/jonnytest1.github.io\/workadventuremap\/map.json#start-bas"
+                         "value":"https:\/\/jonnytest1.github.io\/workadventuremap\/map.json#start-bas"
                         }],
                  "type":"tilelayer",
                  "visible":true,
