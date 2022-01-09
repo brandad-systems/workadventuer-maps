@@ -389,7 +389,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitUrl",
+                         "name":"exitSceneUrl",
                          "type":"string",
                          "value":"https:\/\/jonnytest1.github.io\/workadventuremap\/map.json#start-bas"
                         }],
